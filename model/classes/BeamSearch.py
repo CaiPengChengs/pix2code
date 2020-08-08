@@ -3,6 +3,8 @@ __author__ = 'Tony Beltramelli - www.tonybeltramelli.com'
 
 
 class Node:
+    def changet_file(self, f):
+        
     def __init__(self, key, value, data=None):
         self.key = key
         self.value = value
